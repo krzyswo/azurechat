@@ -1,5 +1,5 @@
 export const AI_NAME = "Jupiter";
-export const AI_DESCRIPTION = "MyGPT.pl Azure Chat, Twój assystent i baza wiedzy";
+export const AI_DESCRIPTION = "Chat MyGPT.pl, Twój assystent i baza wiedzy";
 export const CHAT_DEFAULT_PERSONA = AI_NAME + " default";
 
 export const CHAT_DEFAULT_SYSTEM_PROMPT = `You are a company ${AI_NAME} AI assistant. You must always return in markdown format.
